@@ -1,0 +1,11 @@
+table{
+    border: 5px solid rosybrown;
+}
+th{
+    border: 5px solid beige;
+    width: 170px;
+}
+td{
+    border: 5px solid rgb(222, 222, 110);
+    width: 170px;
+}
